@@ -1,38 +1,104 @@
-.App {
-  text-align: center;
+.svg {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  background: transparent;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#SVGID_1_ {
+  overflow:visible;fill:#CBCBCB;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+#SVGID_1_{
+  overflow:visible;
+  overflow:visible;fill:none;stroke:#FFFFFF;stroke-width:2.1333;stroke-miterlimit:10;
+}
+
+#SVGID_00000063623050470454831140000014193408505326303673_{
+  overflow:visible;fill:#CBCBCB;
+}
+
+#SVGID_00000063623050470454831140000014193408505326303673_{
+  overflow:visible;
+}
+
+#SVGID_00000063623050470454831140000014193408505326303673_{
+  overflow:visible;fill:none;stroke:#FFFFFF;stroke-width:2.1333;stroke-miterlimit:10;
+}
+.st0 {
+  fill: #3c3841
+}
+
+.st1 {
+  fill: #fff
+}
+
+.st2 {
+  fill: #ce0e2d
+}
+
+.st4 {
+  fill: #17ff7a
+}
+
+.st5 {
+  font-family: 
+  OpenSans-ExtraBold;
+}
+
+.st6 {
+  font-size: 20px
+}
+
+.st7 {
+  font-family: 
+  OpenSans-SemiBold;
+}
+
+.st8 {
+  font-size: 15px
+}
+
+.st9 {
+  font-family: 
+  OpenSans-Semibold;
+}
+
+.st10 {
+  display: none;
+  fill: #fff
+}
+
+.st11 {
+  font-size: 28px
+}
+
+.st13 {
+  fill: #6d6e71
+}
+
+.st14 {
+  fill: #cbcbcb
+}
+
+.st15 {
+  font-size: 13.3275px
+}
+
+.st16 {
+  font-size: 15.3275px
+}
+
+.st17 {
+  font-size: 14px
+}
+
+.st22 {
+  font-size: 20.7672px
+}
+.scoreboardBox { 
+  background: transparent;
+  position: fixed; 
+  top: 0; left: 0; right: 0; left: 0;
+  height: 95vh; width:97.5vw;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
